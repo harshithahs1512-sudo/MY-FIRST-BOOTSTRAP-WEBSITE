@@ -7,7 +7,7 @@ This is one of my beginner projects created while learning Bootstrap. I experime
 
 ### What I Used
 - HTML
-- Bootstrap 5
+- Bootstrap 
 
 ### Features
 - Welcome heading with Bootstrap styling
